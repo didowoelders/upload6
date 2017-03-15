@@ -762,7 +762,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "wax tablets",
+              "link": "wax_tablets",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -868,7 +868,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "chamber 1",
+              "link": "chamber_1",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -884,7 +884,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "the iridule",
+              "link": "the_iridule",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
